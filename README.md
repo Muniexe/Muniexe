@@ -1,42 +1,23 @@
-# Olá, eu sou Eduardo 👋
+# Eduardo Muniz
 
-🎓 Estudante de Engenharia Elétrica
+🎓 Engenharia Elétrica
 
-⚡ Membro da Equipe Vento Sul
+⚡ Equipe Vento Sul
 
-💻 Desenvolvedor de projetos com Arduino e Python
+🌊 Desenvolvendo o WaveTrace
 
-🎮 Desenvolvedor de jogos usando Godot e GameMaker
+## Projetos
 
-🌊 Atualmente desenvolvendo o WaveTrace, uma plataforma para análise de movimento utilizando sensores IMU
-
----
+- WaveTrace
+- Passômetro com MPU6050
+- Desenvolvimento de jogos
 
 ## Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,git,github,vscode,godot" />
+</p>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+## Estatísticas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-
----
-
-## Projetos em destaque
-
-### 🌊 WaveTrace
-Sistema para análise de movimento utilizando MPU6050, Arduino e Python.
-
-### 🚶 Passômetro IMU
-Estudo de algoritmos de orientação para contagem de passos.
-
-### 🎮 Desenvolvimento de Jogos
-Projetos desenvolvidos em Godot e GameMaker.
-
----
-
-## Contato
-
-📧 edmz112306@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muniexe&layout=compact&theme=github_dark&hide_border=true)
