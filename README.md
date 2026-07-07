@@ -4,8 +4,6 @@
 
 🎓 Engenharia Elétrica • ⚡ Equipe Vento Sul
 
-🌊 Desenvolvendo o WaveTrace
-
 <a href="https://www.linkedin.com/in/jo%C3%A3o-eduardo-moura-694b1b38a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
