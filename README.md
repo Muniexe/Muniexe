@@ -29,15 +29,3 @@
 <img src="https://skillicons.dev/icons?i=python,arduino,cpp,git,github,vscode,godot" />
 
 </div>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Muniexe&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muniexe&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
